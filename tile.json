@@ -1,12 +1,21 @@
 {
 	"action" : {
 		"type": "url",
-		"text" : "Subhero1",
-		"link": "../create-project",
-		"description" : "Subhero1 test",
-		"newTab" : false,
-		"altText" : "Subhero1 test"
+		"text" : "Learn More",
+		"link": "https://developer.ibm.com/openwhisk/",
+		"description" : "Learn More",
+		"newTab" : true,
+		"altText" : "Learn More"
 	},
-	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-one/create_project.svg",
-	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-one/create_project.svg"
+	"alternateAction" : {
+		"type": "url",
+		"text" : "Get Started",
+		"link": "../create-project/?pattern=MOBILE&starter=OpenWhisk",
+		"description" : "Learn More",
+		"newTab" : true,
+		"altText" : "Learn More"
+	},
+	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-one/openwhisk.svg",
+	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-one/openwhisk.svg",
+	"tag" : "Starter"
 }

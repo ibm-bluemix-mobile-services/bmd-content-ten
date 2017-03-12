@@ -1,3 +1,3 @@
-# Test content
+# OpenWhisk Serverless Push
 
-Test text for bmd-content-ten: how many characters will fit in the content spots? Test text for bmd-content-ten: how many characters will fit in the content spots? Test text for bmd-content-ten: how many characters will fit in the content spots? Test text for bmd-content-ten: how many characters will fit in the content spots?
+Invoke a serverless OpenWhisk action from your mobile app that will trigger a push notification and then notify the mobile app that invoked it.
